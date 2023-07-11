@@ -19,8 +19,8 @@ nav:
         - Início: index.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
-        - Menu exemplo:
-                Submenu exemplo: suporte/faq.md
+        #- Menu exemplo:
+        #        Submenu exemplo: suporte/faq.md
         - Ajuda: sobre.md
 
                

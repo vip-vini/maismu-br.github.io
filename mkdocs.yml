@@ -29,9 +29,9 @@ theme:
         name: material
         custom_dir: overrides
         language: pt-BR
-        icon:
-                logo: fontawesome/solid/computer
-        #logo: assets/images/logo-white.png
+        #icon:
+        #        logo: fontawesome/solid/computer
+        logo: assets/images/logo-muka-white.png
         #favicon: assets/images/favicon.png
         features:
                 - announce.dismiss

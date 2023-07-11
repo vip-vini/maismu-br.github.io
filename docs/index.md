@@ -1,7 +1,8 @@
-# Titulo da Pagina
+# Sobre os manuais e procedimentos
 
 ![incluindo-imagem](assets/images/manuais-procedimentos.jpg#center)
 
+É uma ferramenta de comunicação que visa sistematizar e normalizar conceitos, procedimentos, instruções de trabalho e fornecer orientações na atividade de manutenção, bem como promover a adoção de boas práticas de gestão no desenvolvimento da atividade da mesma.
 
 ## Introdução
 

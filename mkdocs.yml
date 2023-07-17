@@ -16,8 +16,7 @@ copyright: © 2023 Company - Todos os direitos reservados
 
 # Page tree
 nav:
-        # - Início: index.md
-        - Início: servicos.md
+        - Início: index.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
         #- Menu exemplo:
@@ -83,17 +82,16 @@ extra:
                 property: !ENV GOOGLE_ANALYTICS_KEY
         social:
                 - icon: fontawesome/brands/instagram
-                  link: https://www.instagram.com/fconhkd
-                - icon: fontawesome/brands/youtube
-                  link: https://www.youtube.com/channel/fconhkd
+                  link: https://www.instagram.com/maismu
+                #- icon: fontawesome/brands/youtube
+                #  link: https://www.youtube.com/channel/fconhkd
                 - icon: fontawesome/brands/linkedin
-                  link: https://www.linkedin.com/company/fconhkd
-                - icon: fontawesome/brands/facebook
-                  link: https://www.facebook.com/fconhkd
+                  link: https://www.linkedin.com/company/maismu/
+                #- icon: fontawesome/brands/facebook
+                #  link: https://www.facebook.com/fconhkd
                 - icon: fontawesome/brands/github
-                  link: https://github.com/fconhkd
-                - icon: fontawesome/brands/whatsapp
-                  link: https://wa.me/5511999999999
+                  link: https://github.com/lucaseglesias
+
                   
         caption: true
         lazy_load: true

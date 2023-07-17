@@ -20,6 +20,7 @@ nav:
         - Início: servicos.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
+        - Bling:
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
         - Ajuda: sobre.md

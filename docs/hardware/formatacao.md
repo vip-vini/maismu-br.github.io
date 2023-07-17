@@ -1,6 +1,6 @@
 # Formatando o equipamento
 
-![incluindo-imagem](assets/images/manuais-procedimentos.jpg#center)
+![incluir-imagem](docs/assets/images/manuais-procedimentos.jpg)
 
 ## Introdução
 

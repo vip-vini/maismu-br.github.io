@@ -1,6 +1,6 @@
 # Formatando o equipamento
 
-![Formatação](../assets/images/formatacao5.jpg#centershadow){width="70%"} 
+![incluindo-imagem](assets/images/manuais-procedimentos.jpg#center)
 
 ## Introdução
 
@@ -13,7 +13,7 @@ Não existe um tempo recomendado, ideal ou padronizado para que seja realizada a
 A verificação necessária antes da formatação em si é atentar-se às principais configurações da máquina antes de realizar a formatação. Por exemplo, a configuração de rede e vídeo, a verificação de quais softwares estão instalados na máquina para saber se será possível realizar a reinstalação após a formatação, bem como realizar o procedimento de backup de todos os arquivos e dados necessários, para só então realizar a formatação do sistema, apagando todos os dados do equipamento neste procedimento.
 
 ## Pré-requisitos para a formatação de equipamentos
-### 1. Pré-requisito: Windows 10/11 _Professional_ e vantagens - Em andamento
+### 1. Pré-requisito: Windows 10/11 _Professional_ e vantagens
 
 * Atualizações de segurança regulares e automatizadas;
 * Compatilhamento de arquivos com a utilização do OneDrive;
@@ -28,7 +28,7 @@ A verificação necessária antes da formatação em si é atentar-se às princi
         
         A única e principal vantagem da utilização e da aquisição de licenças do **Windows 10/11 em sua versão _Professional_** em nossa empresa, é que somente com a aquisição desta consegue ingressar-se com êxito no domínio da empresa, pois as demais versões (inferiores) não detém/dispõem pela Microsoft esta funcionalidade técnica relacionado ao ingresso em domínios no geral.
 
-### 2. Pré-requisito: Criptografia em repouso - Em andamento
+### 2. Pré-requisito: Criptografia em repouso
 
 * De fundamental importância, como citado em [Padrão Utilizado](../requisitos/#criptografia-em-repouso), preparar o equipamento com a criptografia em repouso torna-se imprescindível na formatação dos equipamentos.
 
@@ -103,7 +103,7 @@ A verificação necessária antes da formatação em si é atentar-se às princi
             allowfullscreen></iframe>
 </div>
 
-### 6. Licença - Em andamento
+### 6. Licença
 Licencimento por volume, não utilizar chaves de ativação (ativado por GPO / rede)
 
 !!! note warning "Importante"
@@ -128,18 +128,18 @@ Licencimento por volume, não utilizar chaves de ativação (ativado por GPO / r
         
         Para nós colaboradores e técnicos do departamento de TI da empresa, não há uma necessidade expressa de um passo a passo detalhado de instalação do sistema operacional Windows 10/11, em específico atrelado à interface gráfica de instalação, até porque o processo de instalação é extremamente intuititvo.
 
-### 2. Ingressar no dominio da empresa - Em andamento
+### 2. Ingressar no dominio da empresa
 Renomear o PC no padrão
 
 ### 3. Instalando programas (padrão)
 No ambiente corporativo algumas ferramentas estão pré-selecionadas para serem instaladas em todos os computadores da empresa, abaixo uma lista dos [softwares homologados](../suporte/softwares.md)
 
-1. Microsoft Teams (gpo) - Em andamento
+1. Microsoft Teams (gpo)
 2. [Notepad++ (ninite)](ninite.md)
 3. [Microsoft Office 365 (manual)](../office365/instalacao.md)
-4. [Inventário (gpo)](inventario.md) - Em andamento
+4. [Inventário (gpo)](inventario.md)
 
-## Configurando o OneDrive - Não
+## Configurando o OneDrive
 
 !!! note tip "Configuração Padrão do OneDrive"
         

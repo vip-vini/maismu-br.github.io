@@ -16,7 +16,8 @@ copyright: © 2023 Company - Todos os direitos reservados
 
 # Page tree
 nav:
-        - Início: index.md
+        # - Início: index.md
+        - Início: servicos.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
         #- Menu exemplo:

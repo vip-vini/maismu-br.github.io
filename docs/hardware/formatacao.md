@@ -1,6 +1,6 @@
 # Formatando o equipamento
 
-![incluindo-imagem](maismu-br/maismu-br.github.io/docs/assets/images/manuais-procedimentos.jpg)
+![incluindo-imagem](assets/images/manuais-procedimentos.jpg#center)
 
 ## Introdução
 
